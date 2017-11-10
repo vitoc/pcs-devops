@@ -44,7 +44,7 @@ Components/Services
 Azure Cosmos DB
 ---------------
 
-* ARM/cosmosdb contains the [ARM template][arm-template] to deploy a Cosmos DB instance with [strong consistency][strong-consistency] as currently required by [pcs-storage-adapter][pcs-storage-adapter].
+* [ARM/cosmosdb][arm-cosmosdb] contains the [ARM][arm-template] template to deploy a Cosmos DB instance with [strong consistency][strong-consistency] as currently required by [pcs-storage-adapter][pcs-storage-adapter].
 
 [pcs-url]: https://docs.microsoft.com/en-us/azure/iot-suite/iot-suite-what-are-preconfigured-solutions
 [pcs-cli-url]: http://azureiotsuite.com/

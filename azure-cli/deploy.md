@@ -1,4 +1,4 @@
-To deply an ARM template (while first creating a resource group):
+To deploy an ARM template (while first creating a resource group):
 
 ```
 az group create --name ExampleGroup --location "West US"
