@@ -1,11 +1,11 @@
 PCS DevOps (WIP)
 ================
 
-This unofficial repository contains sources that may be useful for teams that are looking at including PCS in their automated development operations workflow. Currently, this repository focuses on the Remote Monitoring preconfigured solution (PCS).
+This unofficial repository contains sources that may be useful for teams that are looking at creating an automated DevOps workflow for development and operations work based on customising / extending PCS. Currently, this repository focuses on the Remote Monitoring preconfigured solution (PCS).
 
-For a comprehensive view of the Remote Monitoring PCS, [see here][pcs-url].
-To get a vanilla Remote Monitoring PCS up and running in your Azure environment, [go here][pcs-cli-url].
-For information that may be helpful to you as a developer looking at understanding the development aspects of the PCS further, [check out the wiki][pcs-wiki].
+* For a comprehensive view of the Remote Monitoring PCS, [see here][pcs-url].
+* To get a vanilla Remote Monitoring PCS up and running in your Azure environment, [go here][pcs-cli-url].
+* For information that may be helpful to you as a developer looking at understanding the development aspects of the PCS further, [check out the wiki][pcs-wiki].
 
 The aim is to keep everything as modular as possible so that you can pick and choose the PCS components that you may want to use, customize or extend and find the related DevOps helpers here.
 
