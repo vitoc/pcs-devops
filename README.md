@@ -34,6 +34,8 @@ Azure CLI 2.0
 * [azure-cli/deploy][azure-cli-deploy] contains examples on deploying resources specified by an ARM remplate using the Azure CLI.
 * [azure-cli/delete][azure-cli-delete] contains examples on deleteing a resource group.
 * [azure-cli-samples][azure-cli-samples] hosts a range of examples that can be generally useful when automating Azure changes.
+* [azure-cli/create-cosmosdb][azure-cli/create-cosmosdb] contains an example on how to create a Cosmos DB instance using the Azure CLI.
+* [azure-cli/listkey-cosmosdb][azure-cli/listkey-cosmosdb] contains an example on how to get the primary key of a Cosmos DB instance.
 
 Kubernetes
 ----------
@@ -56,3 +58,5 @@ Azure Cosmos DB
 [arm-cosmosdb]: https://github.com/vitoc/pcs-devops/tree/master/ARM/cosmosdb
 [azure-cli-deploy]: https://github.com/vitoc/pcs-devops/tree/master/azure-cli/deploy.md
 [azure-cli-delete]: https://github.com/vitoc/pcs-devops/tree/master/azure-cli/delete.md
+[azure-cli/create-cosmosdb]: https://github.com/vitoc/pcs-devops/tree/master/azure-cli/create-cosmosdb.md
+[azure-cli/listkey-cosmosdb]: https://github.com/vitoc/pcs-devops/tree/master/azure-cli/listkey-cosmosdb.md
